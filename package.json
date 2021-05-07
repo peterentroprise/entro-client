@@ -7,21 +7,22 @@
     "start": "next start"
   },
   "dependencies": {
-    "@chakra-ui/icons": "^1.0.5",
-    "@chakra-ui/react": "^1.4.2",
-    "@chakra-ui/theme-tools": "1.1.2",
-    "@emotion/react": "11.1.5",
-    "@emotion/styled": "11.1.5",
-    "framer-motion": "^4.0.3",
+    "@chakra-ui/icons": "^1.0.13",
+    "@chakra-ui/react": "^1.6.1",
+    "@chakra-ui/theme-tools": "^1.1.2",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "@fontsource/mulish": "^4.3.0",
+    "framer-motion": "^4.1.13",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@types/node": "^14.6.0",
-    "@types/react": "^17.0.3",
+    "@types/node": "^14.14.44",
+    "@types/react": "^17.0.5",
     "@types/react-dom": "^17.0.3",
-    "typescript": "4.2.3"
+    "typescript": "^4.2.3"
   },
   "license": "MIT"
 }

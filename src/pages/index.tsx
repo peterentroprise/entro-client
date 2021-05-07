@@ -1,8 +1,8 @@
 import { Box, Text, Heading } from "@chakra-ui/react";
 
 const Index = () => (
-  <Box>
-    <Heading>Merging the finite, with the infinite.</Heading>
+  <Box p="1rem">
+    <Heading pb="1rem">Merging the finite, with the infinite.</Heading>
     <Text>
       In mainstream theories of natural language syntax, every
       syntactically-valid utterance can be extended to produce a new, longer
